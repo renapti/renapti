@@ -1,4 +1,4 @@
-# Hey, I'm **renapti**
+# Hey, I'm **renapti**!
 
 I'm just a furry on the Internet doing dumb programming things.  
 Brave enough to use GitHub to show off my terrible code!
