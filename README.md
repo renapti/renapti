@@ -1,11 +1,11 @@
-# Hey, I'm **renapti**!
+# Hey, I'm **renapti** / **Azura**!
 
-I'm just a furry on the Internet doing dumb programming things.  
-Brave enough to use GitHub to show off my terrible code!
+I'm an airplane dragon on the internet just trying to have some fun.
+Learning GitHub to help my future opportunities!
 
-`🎯 PRONOUNS: HE / SHE / THEY`  
-`💻 BEGINNER PROGRAMMER`  
-`🐱 NEW TO GITHUB!`  
-`🎮 ENJOYS GAMING`  
+`🎯 PRONOUNS: SHE / HER / ANY`
+`💻 NOVICE PROGRAMMER (PYTHON CERTIFIED)`
+`🐱 NEW TO GITHUB`
+`🎮 ENJOYS GAMING`
 
 That's all for now! I might have some more stuff to show here later, but not just yet. Nice to meet you!
