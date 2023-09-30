@@ -1,9 +1,8 @@
 # Hey, I'm **renapti** / **Azura**!
 
-I'm an airplane dragon on the internet just trying to have some fun.
+I'm an airplane dragon on the internet just trying to have some fun!
 Learning GitHub to help my future opportunities!
 
-`🎯 PRONOUNS: SHE / THEY / ANY`  
 `💻 NOVICE PROGRAMMER (PYTHON CERTIFIED)`  
 `🐱 NEW TO GITHUB`  
 `🎮 ENJOYS GAMING`  
